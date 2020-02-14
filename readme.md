@@ -5,3 +5,11 @@
 
 ###### Make Controller
 <kbd>make:controller [name]</kbd> 
+
+###### Make Model
+<kbd>make:model [name]</kbd> 
+
+###### Make Migration
+<kbd>make:migration [name]</kbd> 
+
+#### ***** View <i>.bash</i> file for more commands *****
